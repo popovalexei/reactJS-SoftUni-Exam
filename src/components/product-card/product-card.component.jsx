@@ -1,10 +1,8 @@
 //Contexts
 import { useContext } from 'react';
 import { CartContext } from '../../contexts/cart.context.jsx';
-
 //Components
 import Button from '../button/button.component.jsx';
-
 //SCSS
 import './product-card.styles.scss';
 

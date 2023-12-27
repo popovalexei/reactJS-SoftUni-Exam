@@ -1,4 +1,6 @@
+//SCSS
 import './cart-item.styles.scss';
+
 const CartItem = ({ cartItem }) => {
   const { name, imageUrl, price, quantity } = cartItem;
   return (

@@ -1,9 +1,8 @@
 //Contexts
 import { useContext } from 'react';
 import { CartContext } from '../../contexts/cart.context.jsx';
-
+//icon
 import shoppingIcon from '../../assets/shopping-bag.svg';
-
 //SCSS
 import './cart-icon.styles.scss';
 

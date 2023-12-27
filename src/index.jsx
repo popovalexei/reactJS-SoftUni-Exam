@@ -8,7 +8,6 @@ import App from './App.jsx';
 import { UserProvider } from './contexts/user.context.jsx';
 import { ProductsProvider } from './contexts/products.context.jsx';
 import { CartProvider } from './contexts/cart.context.jsx';
-
 //SCSS
 import './index.scss';
 
